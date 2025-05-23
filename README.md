@@ -2,9 +2,12 @@
 
 Este é o repositório do meu portfólio pessoal. Um site desenvolvido para apresentar meus projetos, habilidades e experiências como desenvolvedor Full Stack.
 
+## **Preview:**  https://joaquimwalter.github.io/Vitrine-Dev/
+<br>
+
 ## 🛠️ Tecnologias Utilizadas
 
-**Front-end:**
+
 - HTML
 - CSS
 - JavaScript
